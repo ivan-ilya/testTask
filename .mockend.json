@@ -1,0 +1,11 @@
+{
+  "user": {
+    "id": "int",
+    "name": "string",
+    "isActive": "boolean",
+  },
+  "comment": {
+    "job": "string",
+    "post": "user"
+  }
+}
